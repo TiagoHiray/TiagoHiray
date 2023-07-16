@@ -19,5 +19,5 @@ I really enjoy areas that use a lot of Math and Statistics, mainly Calculus and 
 
 #Github Stats
 
-[!Tiago Hiray GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoHiray)
+![Tiago Hiray GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoHiray&show_icons=True&theme=dracula)
 
