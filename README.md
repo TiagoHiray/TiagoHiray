@@ -18,3 +18,6 @@ I really enjoy areas that use a lot of Math and Statistics, mainly Calculus and 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagohiray/)
 
 #Github Stats
+
+[!Tiago Hiray GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoHiray&Show_icons=True&theme=dracula)]
+
