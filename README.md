@@ -21,6 +21,7 @@ I really enjoy areas that use a lot of Math and Statistics, mainly Calculus and 
 # Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagohiray/)
+<a href = "mailto:ti.hiray@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
