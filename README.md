@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Tiago Hiray, currently a comp sci student at Instituto Mauá de Tecnologia, an undergrad researcher in ML and computer vision and a Data Science Intern at a brazilian AI Startup
+I am Tiago Hiray, currently a comp sci student at Instituto Mauá de Tecnologia, an undergrad researcher in ML/Computer vision and a Data Science Intern at a brazilian AI Startup
 
 # Expertise
 My main areas are Data Science, Machine Learning and Computer vision.
